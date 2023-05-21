@@ -1,0 +1,86 @@
+body{
+    background:black;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+}
+.fa-youtube{
+    color:red;
+    margin-top:17px;
+    margin-left:5px;
+    float:left;
+}
+
+.IconText{
+    font-size:28px;
+    margin-left:43px;
+    margin-top:15px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight:400;
+}
+
+.ClearLink{
+    color:white;
+    text-decoration: none;
+}
+
+.MainImg{
+    width:200px;
+    height:200px;
+    margin-top:1%;
+    margin-left:15%;
+    float:left;
+}
+
+.PlaylistTitle{
+    margin-left:15%;
+    padding-left:250px;
+    font-size: 50px;
+}
+
+.PlaylistDescription{
+    color:gray;
+    margin-left:15%;
+    padding-left:250px;
+    font-size: 15px;
+}
+
+.temp{
+    clear:both;
+}
+
+.SongTable{
+    color:gray;
+    font-size:15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-left:15%;
+    margin-top:50px;
+    width: 800px;
+    height:600px;
+}
+
+.SongImageTable{
+    width:50px;
+}
+
+.SongImage{
+    width:30px;
+    height:30px;
+}
+
+.SongName{
+    color:white;
+    font-weight: 500;
+}
+
+.Artist{
+
+}
+
+.AlbumName{
+
+}
+
+.SongLength{
+
+}
